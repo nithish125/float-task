@@ -1,0 +1,24 @@
+.float1{
+height: 300px;
+width: 50%;
+color: aliceblue;
+background-color: red;
+float: left;
+text-align: center;
+font-size: 32px;
+}
+.float2{
+height: 300px;
+width: 50%;
+background-color: green;
+float: right;
+color: aliceblue;
+text-align: center;
+font-size: 32px;
+}
+.float3{
+background-color: black;
+color: aliceblue;
+text-align: center;
+font-size: 32px;
+}
